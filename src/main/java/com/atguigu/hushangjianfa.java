@@ -22,6 +22,9 @@ public class hushangjianfa {
         System.out.println("bbbbb");
         System.out.println("bbbbb");
         System.out.println("bbbbb");
+        System.out.println("bbbbb");
+        System.out.println("bbbbb");
+        System.out.println("bbbbb");
 
     }
 }
